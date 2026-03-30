@@ -1,37 +1,121 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eslam Sayed
+Hi 👋 My name is Eslam Sayed
 ===================================================================================================================================
 
-Back End Software Engineer
+Backend Developer | Software Engineer @ WHITEGUARD
 --------------------------
 
-About Me I am a senior student at the Faculty of Computers and Artificial Intelligence at Cairo University, currently specializing in back-end development. With a strong foundation in both academic and practical aspects of software development, I am passionate about building robust and scalable systems. Key Projects Star Union Website: As the lead back-end developer, I manage server-side development, deployment, and architecture design for the Star Union website. This project involves handling event management, user authentication, and workshop registrations. Through this role, I’ve gained extensive experience with Django, project management, and deployment strategies. Skills and Technologies Programming Languages: Python, JavaScript, PHP, Java, C++ Frameworks and Libraries: Django, Laravel Web Technologies: HTML, CSS Other: Software Design & Architecture, Problem Solving Achievements 63rd Place: Egyptian Collegiate Programming Contest Technical Head: Google Developers Student Club MTI Chapter Web Development Head: Star Union Certifications: Challenger and Professional Certificates from the Audacity Web Development Program Education Currently pursuing a degree in Computer Science and Artificial Intelligence, where I have studied software engineering, data structures, databases, data warehousing, networking, and operating systems. I have also pursued back-end development independently through documentation and hands-on projects. Career Goals My aspiration is to work with a leading FAANG company or a high-growth unicorn company post-graduation. I aim to leverage my skills in software development and problem-solving to contribute to cutting-edge projects and innovations.
+I’m a backend developer based in Cairo, Egypt, currently working at Whiteguard on the Whitehawk project, where I build and improve backend systems running in real production environments.
 
-* 🌍  I'm based in Cairo, Egypt
-* ✉️  You can contact me at [esla889900@gmail.com](mailto:esla889900@gmail.com)
-* 🧠  I'm learning Django, Data Science
+My work focuses on designing scalable systems, building APIs, and handling complex backend logic. I’ve worked on multi-tenant architectures, database design, and improving system performance and reliability in production.
 
-### Skills
+Alongside my professional work, I serve as the Technical Head at Star Union, where I lead backend development, contribute to system architecture, and take ownership of deployment processes.
 
+I also have a strong background in problem solving and competitive programming, which helps me approach backend challenges in a structured and efficient way.
 
+---
+
+### 🚀 What I’m focused on
+- Building scalable backend systems  
+- System design (architecture, notifications, logging)  
+- Database design and performance optimization  
+- Deployment and production reliability  
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+Python, JavaScript, C++, Java, PHP  
+
+**Backend & Frameworks:**  
+Django, Django REST Framework  
+
+**Databases & Systems:**  
+MySQL, PostgreSQL, Redis  
+
+**Other:**  
+REST APIs, System Design, Multi-tenant Architectures, Deployment, Git  
+
+---
+
+### 💼 Experience
+
+**Backend Developer — Whiteguard (Whitehawk Project)**  
+- Working on a production-grade system serving real users  
+- Designing and building REST APIs using Django  
+- Designing database schemas and handling complex data relationships  
+- Implementing multi-tenant architecture and optimizing system performance  
+- Designing internal systems such as notifications and logging systems  
+- Contributing to on-premise deployment setup and environment configuration  
+- Managing deployments across staging and production environments  
+- Troubleshooting and resolving real production issues  
+
+**Technical Head — Star Union**  
+- Leading backend development and technical decisions  
+- Designing system architecture and workflows  
+- Leading and managing deployment processes for the platform  
+- Mentoring team members and reviewing code  
+
+---
+
+### 📌 Projects
+
+#### 1. Whitehawk
+- Backend system developed at Whiteguard for real-world usage  
+- Designed scalable APIs and backend services  
+- Owned parts of database design and system architecture  
+- Worked on notification and logging systems  
+- Contributed to on-premise deployment and system setup  
+- Improved system performance and handled real production challenges  
+
+#### 2. PSA (Problem Solving Assistant)
+- Backend system for assisting users in solving algorithmic problems  
+- Designed APIs and handled efficient data processing  
+- Led deployment and environment setup for the system  
+
+#### 3. Star Union Backend
+- Backend system for managing events, users, and registrations  
+- Built authentication, role management, and event workflows  
+- Led deployment and managed production environment  
+
+#### 4. Human Resource System
+- Employee management system with structured workflows  
+- Managed employee data and internal processes  
+
+#### 5. Orders & Notifications
+- Backend service for processing orders and managing notifications  
+- Focused on reliability and communication between services  
+
+#### 6. Othello AI Game
+- AI-based board game implementation using algorithms  
+- Focused on decision-making logic and optimization  
+
+---
+
+### 🏆 Achievements
+- 63rd Place — Egyptian Collegiate Programming Contest  
+- Technical Head — Star Union  
+- Technical Head — Google Developers Student Club (MTI)  
+
+---
+
+### 🌍 About Me
+- Based in Cairo, Egypt  
+- 📧 esla889900@gmail.com  
+- Focused on building real-world systems and growing as a backend engineer  
+
+---
+
+### 🔗 Connect with me
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a>
+<a href="https://www.github.com/Eslam030" target="_blank">GitHub</a> |
+<a href="https://www.linkedin.com/in/eslam-sayed-475687238/" target="_blank">LinkedIn</a>
 </p>
 
+---
 
-### Socials
+### 📊 GitHub Stats
 
-<p align="left"> <a href="https://www.facebook.com/profile.php?id=100005096553950" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Eslam030" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/eslam-sayed-475687238/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Eslam030"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Eslam030&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Eslam030/StarUnion_BackEnd" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eslam030&repo=StarUnion_BackEnd&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Eslam030/Human_resource_website" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eslam030&repo=Human_resource_website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Eslam030/OrdersAndNotfications" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eslam030&repo=OrdersAndNotfications&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Eslam030/Othello-game-with-AI" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eslam030&repo=Othello-game-with-AI&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<a href="http://www.github.com/Eslam030">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eslam030&hide_border=true" />
+</a>
